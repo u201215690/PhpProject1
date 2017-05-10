@@ -12,6 +12,10 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Mi Primera Pagina';
+        
+        for ($index = 0; $index < count($array); $index++) {
+            
+        }
         ?>
     </body>
 </html>
