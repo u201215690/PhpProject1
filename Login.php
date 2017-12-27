@@ -1,6 +1,4 @@
 <?php
 
-/* 
-Pagina para el Login
- */
+echo "La primera subida del proyecto";
 
