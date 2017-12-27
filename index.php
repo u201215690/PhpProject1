@@ -14,7 +14,7 @@ and open the template in the editor.
         echo 'Mi Primera Pagina';
         
         for ($index = 0; $index < count($array); $index++) {
-            
+            echo "Hola lol";
         }
         ?>
     </body>
